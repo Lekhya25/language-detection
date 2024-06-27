@@ -1,2 +1,6 @@
 # language-detection
-A Language detection model that can detect four languages
+A NLP classification model using Tensorflow that can detect four languages: 
+* English
+* German
+* French
+* Spanish
